@@ -14,6 +14,7 @@
    - **Environment**: `Node`
    - **Region**: Choose closest to you
    - **Branch**: `master`
+   - **Root Directory**: `backend` ⚠️ **IMPORTANT**
    - **Build Command**: `npm install`
    - **Start Command**: `npm start`
 
